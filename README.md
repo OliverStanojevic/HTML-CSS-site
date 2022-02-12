@@ -6,3 +6,5 @@ Neke stvari koje sam naucio kroz rada na projektu:
   - vaznost brzine ucitavanja sajta
   - koriscenje api-ja drustvenih mreza
   - kreiranje responsivnog site-a
+
+Link: https://oliverstanojevic.github.io/HTML-CSS-site/
